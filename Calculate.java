@@ -5,6 +5,8 @@ static int b =2;
 static int d;
   public static void main(String[] args){
  int d = a+b;    
- system.out.println("Addition :"+ d);
+ System.out.println("Addition :"+ d);
+ int d = a-b;   
+ System.out.println("Substraction :"+ d);
   }
 }
